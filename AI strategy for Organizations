@@ -1,0 +1,18 @@
+# A Value Case Portfolio: Creating a Clear and Compelling Vision for AI in Organizations
+1.To effectively "start" implementing AI, organizations must lay a foundation by creating a holistic view of AI within the context of their structure
+  1. Integration is key
+  2. Use a Dual-Pronged Approach
+     Top-Down: Start by connecting strategic priorities from the overall business strategy to specific AI domains—key areas where investment will focus (e.g., a department, a core product, or an end-to-end process like a customer journey)
+     Bottom-Up: Leadership should gather feedback from teams on the ground to crowdsource ideas and gain a better understanding of concrete issues and roadblocks encountered daily
+  3. Focus on Domains: The most significant impact comes from multiple use cases that work together to reimagine an entire chain of value, rather than relying on a single AI implementation adopted in isolation
+2. Prioritize the Right Use Cases:
+   Key Assessment Questions: To map out use cases, organizations should ask questions across three areas:
+    a. Business Value: Will this move the needle for customer and employee needs? How does this support top business objectives?  Can the solution be reused or extended for future use cases?
+    b. Actionability: How accurate must the AI be to be useful? How easily can this be adapted into existing processes? How quickly can value be driven for the organization?
+    c. Feasibility: Is AI actually the right technical fit? How accessible and trustworthy is the data? What is the risk tolerance concerning inaccuracy or misuse?
+3. Measure Gen AI Progress: For an AI initiative to be considered a successful "start," organizations must ensure it delivers on promised outcomes by rigorously measuring its progress. Measure entire Lifecycle for KPIs and establish a baseline. Additionally measure these key measurement areas.
+        Model Quality Metrics: Monitor the accuracy, factuality, reliability, and security of the AI models
+        System Metrics: Monitor the health and performance of AI platforms and infrastructure to ensure efficiency, reliability, and scale
+        Adoption Metrics: Provide insights into how users interact with new tools, tracking usage frequency and other qualitative feedback
+        Operational Metrics: Measure the impact on business processes, such as whether AI capabilities are delivering downstream returns like click-throughs or call containments
+        Business Impact: Financial metrics that provide visibility into whether strategic goals (e.g., increasing revenue, reducing costs, or accelerating innovation) are being met
