@@ -13,6 +13,9 @@ I specialize in **AI Enablement** and **Governance** within the P&C Insurance an
 * **Frameworks:** NIST AI RMF, SAFe Agile, LEAN Six Sigma, CSM, CSPO
 * **Tech Context:** Snowflake, Google AI, Azure AI, Automated QA, MLOps Governance.
 
+## How to Run
+** "System Instructions" in the code act as the governance guardrails you designed in AI Studio.
+
 
 
 
